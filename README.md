@@ -18,6 +18,8 @@
 
 ### 🎯 Мои проекты:
 
+<ul><a href='https://mobile-payments-beryl.vercel.app/'>MobilePayments</a> (TypeScript/Next.js/React/React Hooks/Styled-Components), project's repository on <a href='https://github.com/AlexRybakov/MobilePayments'>GitHub</a></ul>
+
 <ul><a href='https://alexrybakov.github.io/ToDo/'>ToDo</a> (TypeScript/React JS/Redux/SCSS/localStorage/react-router-dom), project's repository on <a href='https://github.com/AlexRybakov/ToDo'>GitHub</a></ul>
 
 <ul><a href='https://alexrybakov.github.io/OnlineStore/'>OnlineStore</a> (TypeScript/React JS/Redux/Styled/REST API/react-router-dom), project's repository on <a href='https://github.com/AlexRybakov/OnlineStore'>GitHub</a></ul>
